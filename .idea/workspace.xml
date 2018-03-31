@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bbc1e2c-b1f9-42e6-9d4f-e4f2a1d18ba3" name="Default" comment="">
+    <list default="true" id="4bbc1e2c-b1f9-42e6-9d4f-e4f2a1d18ba3" name="Default" comment="employeeMap class added for map default method practise.">
+      <change afterPath="$PROJECT_DIR$/target/classes/Java8/MapInterfaceDefaultMethod/EmployeeMap.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java8/CollectionDefaultMethods/EmployeeClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java8/CollectionDefaultMethods/EmployeeClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java8/CollectionDefaultMethods/EmployeeClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8/CollectionDefaultMethods/EmployeeClient.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,33 +26,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="EmployeeMap.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Java8/MapInterfaceDefaultMethod/EmployeeMap.java">
+      <file leaf-file-name="MapDefault.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Java8/MapInterfaceDefaultMethod/MapDefault.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="234">
+              <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#194#301#1" expanded="true" />
-                <element signature="e#277#350#0" expanded="true" />
-                <element signature="e#277#350#0" expanded="true" />
-                <element signature="e#277#350#0" expanded="true" />
-                <element signature="e#360#428#0" expanded="true" />
-                <element signature="e#360#428#0" expanded="true" />
-                <element signature="e#360#428#0" expanded="true" />
-                <element signature="e#438#506#0" expanded="true" />
-                <element signature="e#438#506#0" expanded="true" />
-                <element signature="e#438#506#0" expanded="true" />
-                <element signature="e#516#586#0" expanded="true" />
-                <element signature="e#516#586#0" expanded="true" />
-                <element signature="e#516#586#0" expanded="true" />
-                <element signature="e#596#667#0" expanded="true" />
-                <element signature="e#596#667#0" expanded="true" />
-                <element signature="e#596#667#0" expanded="true" />
-                <element signature="e#1051#1063#0" expanded="true" />
-                <element signature="e#1051#1063#0" expanded="true" />
-                <element signature="e#1051#1063#0" expanded="true" />
-                <element signature="e#1051#1063#0" expanded="true" />
+                <element signature="e#121#157#1" expanded="true" />
+                <element signature="e#228#247#0" expanded="true" />
+                <element signature="e#228#247#0" expanded="true" />
+                <element signature="e#228#247#0" expanded="true" />
+                <element signature="e#257#276#0" expanded="true" />
+                <element signature="e#257#276#0" expanded="true" />
+                <element signature="e#257#276#0" expanded="true" />
+                <element signature="e#286#305#0" expanded="true" />
+                <element signature="e#286#305#0" expanded="true" />
+                <element signature="e#286#305#0" expanded="true" />
+                <element signature="e#394#412#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#557#569#0" expanded="true" />
+                <element signature="e#557#569#0" expanded="true" />
+                <element signature="e#557#569#0" expanded="true" />
+                <element signature="e#557#569#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,8 +75,12 @@
         <option value="$PROJECT_DIR$/Java8/src/main/java/Java8/CollectionDefaultMethods/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/java/Java8/CollectionDefaultMethods/EmployeeClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/Java8/MapInterfaceDefaultMethod/EmployeeMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Java8/MapInterfaceDefaultMethod/MapDefault.java" />
       </list>
     </option>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="Ritu@Copy" pattern="" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -152,13 +151,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -256,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522514419831</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="employeeMap class added for map default method practise.">
+      <created>1522514552385</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1522514552386</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -375,8 +381,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Java8/MapInterfaceDefaultMethod/EmployeeMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="324">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#194#301#1" expanded="true" />
@@ -403,6 +409,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Java8/MapInterfaceDefaultMethod/MapDefault.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#121#157#1" expanded="true" />
+            <element signature="e#228#247#0" expanded="true" />
+            <element signature="e#228#247#0" expanded="true" />
+            <element signature="e#228#247#0" expanded="true" />
+            <element signature="e#257#276#0" expanded="true" />
+            <element signature="e#257#276#0" expanded="true" />
+            <element signature="e#257#276#0" expanded="true" />
+            <element signature="e#286#305#0" expanded="true" />
+            <element signature="e#286#305#0" expanded="true" />
+            <element signature="e#286#305#0" expanded="true" />
+            <element signature="e#394#412#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#557#569#0" expanded="true" />
+            <element signature="e#557#569#0" expanded="true" />
+            <element signature="e#557#569#0" expanded="true" />
+            <element signature="e#557#569#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -416,6 +449,21 @@
               </list>
             </option>
           </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>Ritu@Copy</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="Ritu@Copy" />
+          </order>
         </settings>
       </state>
     </states>
