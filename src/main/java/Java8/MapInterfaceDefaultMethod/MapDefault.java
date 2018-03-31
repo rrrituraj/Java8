@@ -12,8 +12,6 @@ public class MapDefault {
         integerMap.forEach(MapDefault::printMap);
         integerMap.replaceAll((k, v) -> (int) Math.pow(k, v));
         integerMap.forEach(MapDefault::printMap);
-
-
     }
 
     private static void printMap(Integer k, Integer v) {
