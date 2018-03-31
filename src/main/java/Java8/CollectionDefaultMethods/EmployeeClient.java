@@ -7,12 +7,12 @@ import java.util.List;
 
 public class EmployeeClient {
     public static void main(String[] args) {
-        List<Employee> list=new ArrayList<>();
-        list.add(new Employee("Rituraj" ,30000.00,"Rituraj@gmail.com"));
-        list.add(new Employee("kamal" ,138000.00,"kamal@tcs.com"));
-        list.add(new Employee("khajju" ,50000.0,"khajju@tcs.com"));
-        list.add(new Employee("yashraj" ,5000.00,"yashraj@tcs.com"));
-        list.add(new Employee("random" ,1000000.00,"random@tcs.com"));
+        List<Employee> list = new ArrayList<>();
+        list.add(new Employee("Rituraj", 30000.00, "Rituraj@gmail.com"));
+        list.add(new Employee("kamal", 138000.00, "kamal@tcs.com"));
+        list.add(new Employee("khajju", 50000.0, "khajju@tcs.com"));
+        list.add(new Employee("yashraj", 5000.00, "yashraj@tcs.com"));
+        list.add(new Employee("random", 1000000.00, "random@tcs.com"));
 
         System.out.println(".......................................................................................................................................................................................................");
         list.forEach(System.out::println);
