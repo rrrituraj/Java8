@@ -1,0 +1,4 @@
+You can set the color separately for each language,
+ but it is not necessary. By default each language
+  setting inherits from Settings | Editor | Color Scheme
+  | Language Defaults | Comments, and you can change it there.
