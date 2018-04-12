@@ -16,10 +16,10 @@ public class StreamReductionCollect {
 			new Product(30, "Momos"));
 
 		List<String> productNames = productList.stream().map(Product::getName).collect(Collectors.toList());
-		//productNames.forEach(System.out::println);
-		//System.out.println(productNames);
+		productNames.forEach(System.out::println);
+		System.out.println(productNames);
 		String productNameJoin = productList.stream().map(Product::getName).collect(Collectors.joining(",", "[", "]"));
-		//System.out.println(productNameJoin);
+		System.out.println(productNameJoin);
 
 		LongSummaryStatistics longSummaryStatistics = productList.stream().collect(Collectors.summarizingLong(Product::getPrice));
 		System.out.println(longSummaryStatistics);
