@@ -1,7 +1,5 @@
 package Java8.CollectionDefaultMethods;
 
-import java.util.Objects;
-
 public class Employee {
     private  String name;
     private  double  salary;
@@ -15,6 +13,10 @@ public class Employee {
                 ", email='" + email + '\'' +
                 '}';
     }
+
+  public Employee() {
+  }
+
     public Employee(String name, double salary, String email) {
         this.name = name;
         this.salary = salary;
