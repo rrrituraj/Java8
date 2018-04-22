@@ -5,6 +5,9 @@ public class Student {
     private int age;
     private String s_class;
 
+  public Student() {
+  }
+
     public Student(String name, int age, String s_class) {
         super();
         this.name = name;
