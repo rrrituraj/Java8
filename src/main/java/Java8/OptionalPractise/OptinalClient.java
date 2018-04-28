@@ -14,6 +14,6 @@ public class OptinalClient {
     /*Integer count=getSecondWord.andThen(getLetterCount).apply("Rituraj Gupta");
     System.out.println(count);*/
 
-        Optional.ofNullable(getSecondWord.apply("Rituraj")).map(getLetterCount).orElse(0);
+        Optional.ofNullable(getSecondWord.apply("Rituraj")).map(getLetterCount).orElse(1);
     }
 }
